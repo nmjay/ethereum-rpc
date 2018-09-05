@@ -12,5 +12,6 @@
     "psr-4": {
       "EthereumRPC\\": ["src"]
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
